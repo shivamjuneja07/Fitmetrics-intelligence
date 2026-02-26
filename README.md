@@ -96,7 +96,7 @@ fitmetrics-intelligence/
 ![Duration vs Calories](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/02_duration_vs_calories.png)
 
 ### Feature Correlation Matrix
-![Correlation](visuals/03_correlation_heatmap.png)
+![Correlation](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/03_correlation_heatmap.png)
 
 ### Member Segmentation via K-Means
 ![Segmentation](visuals/07_member_segmentation.png)
