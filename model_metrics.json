@@ -1,0 +1,13 @@
+{
+  "regression": {
+    "r2": 0.972,
+    "mae": 36.21
+  },
+  "classification": {
+    "accuracy": 0.9179
+  },
+  "clustering": {
+    "n_clusters": 4,
+    "explained_variance": 66.2
+  }
+}

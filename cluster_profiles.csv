@@ -1,0 +1,5 @@
+Cluster_Name,Age,BMI,Fat_Percentage,Session_Duration (hours),Calories_Burned,Workout_Frequency (days/week)
+Balanced Athletes,47.1,22.07,27.75,1.24,867.98,3.23
+Casual Members,38.31,24.47,27.79,0.77,542.03,2.44
+High Performers,28.3,29.07,26.89,1.26,952.26,3.18
+Intensive Trainers,38.26,24.74,14.86,1.76,1265.83,4.52
