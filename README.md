@@ -93,7 +93,7 @@ fitmetrics-intelligence/
 ![Calories by Workout](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/01_calories_by_workout.png)
 
 ### Session Duration vs Calories (by Experience Level)
-![Duration vs Calories](visuals/02_duration_vs_calories.png)
+![Duration vs Calories](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/02_duration_vs_calories.png)
 
 ### Feature Correlation Matrix
 ![Correlation](visuals/03_correlation_heatmap.png)
