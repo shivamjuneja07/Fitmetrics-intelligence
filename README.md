@@ -90,22 +90,22 @@ fitmetrics-intelligence/
 ## Visuals
 
 ### Caloric Output by Workout Type
-![Calories by Workout](visuals/01_calories_by_workout.png)
+![Calories by Workout](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/01_calories_by_workout.png)
 
 ### Session Duration vs Calories (by Experience Level)
-![Duration vs Calories](visuals/02_duration_vs_calories.png)
+![Duration vs Calories](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/02_duration_vs_calories.png)
 
 ### Feature Correlation Matrix
-![Correlation](visuals/03_correlation_heatmap.png)
+![Correlation](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/03_correlation_heatmap.png)
 
 ### Member Segmentation via K-Means
-![Segmentation](visuals/07_member_segmentation.png)
+![Segmentation](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/07_member_segmentation.png)
 
 ### Feature Importance: Calorie Prediction
-![Feature Importance](visuals/08_calorie_feature_importance.png)
+![Feature Importance](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/08_calorie_feature_importance.png)
 
 ### Experience Level Classification Confusion Matrix
-![Confusion Matrix](visuals/09_experience_confusion_matrix.png)
+![Confusion Matrix](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/09_experience_confusion_matrix.png)
 
 ---
 
@@ -154,9 +154,3 @@ jupyter notebook notebooks/fitmetrics_full_analysis.ipynb
 
 **Shivam**
 Business Analyst and Data Scientist
-
----
-
-## License
-
-This project is licensed under the MIT License.
