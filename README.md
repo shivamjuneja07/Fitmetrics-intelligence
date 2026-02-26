@@ -90,7 +90,7 @@ fitmetrics-intelligence/
 ## Visuals
 
 ### Caloric Output by Workout Type
-![Calories by Workout](visuals/01_calories_by_workout.png)
+![Calories by Workout]([visuals/01_calories_by_workout.png](https://github.com/shivamjuneja07/Fitmetrics-intelligence/blob/main/01_calories_by_workout.png))
 
 ### Session Duration vs Calories (by Experience Level)
 ![Duration vs Calories](visuals/02_duration_vs_calories.png)
