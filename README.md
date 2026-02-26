@@ -154,3 +154,9 @@ jupyter notebook notebooks/fitmetrics_full_analysis.ipynb
 
 **Shivam**
 Business Analyst and Data Scientist
+
+---
+
+## License
+
+This project is licensed under the MIT License.
