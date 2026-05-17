@@ -1,11 +1,6 @@
 # FitMetrics Intelligence
 ### Gym Analytics and Predictive Modeling Platform
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange?logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![CI](https://github.com/yourusername/fitmetrics-intelligence/actions/workflows/ci.yml/badge.svg)
-
 A senior-level end-to-end data science project combining business analytics with machine learning on gym member fitness data. This project covers exploratory data analysis, three predictive models, member segmentation, an interactive dashboard, and a professional PDF report.
 
 ---
